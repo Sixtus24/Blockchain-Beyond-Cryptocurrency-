@@ -5,7 +5,7 @@ Discover how blockchain is revolutionizing industries beyond cryptocurrency. Lea
 When people hear the word "blockchain," they often think of cryptocurrencies like Bitcoin and Ethereum. However, blockchain technology has applications far beyond digital currencies. Its decentralized, secure, and transparent nature is revolutionizing industries such as supply chain management, healthcare, finance, real estate, government services, education, energy, and logistics. By eliminating middlemen, increasing security, and improving trust, blockchain is shaping the future of digital transactions and data management. This article explores its diverse applications, real-world examples, expert insights, and future trends.
 
 ## Understanding Blockchain: Key Concepts
-![Image](./613f31c3157c79fd0c44c901977422b9.png) 
+!how-blockchain-works-infographic.width-880.png
 To understand why blockchain is so powerful, it's important to know its key principles:
 - **Decentralization**: Instead of being controlled by one authority, blockchain data is stored across a network of computers, making it more secure and resistant to hacking.
 - **Immutability**: Once information is recorded on the blockchain, it cannot be changed or deleted, preventing fraud and ensuring accuracy.
