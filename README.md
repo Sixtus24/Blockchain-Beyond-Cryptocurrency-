@@ -19,7 +19,7 @@ To understand why blockchain is so powerful, it's important to know its key prin
 
 ### 1. Supply Chain Management
 Blockchain improves product tracking, prevents fraud, and increases efficiency in global supply chains. Companies like **IBM, Maersk, and Walmart** use blockchain to trace goods from their origin to the final destination.
-![Image](./07a55a2cc06d1366b6ae55013ecec8ea.jpg) 
+![Image](https://github.com/Sixtus24/Blockchain-Beyond-Cryptocurrency-/blob/b4a1c06881e1375c2b799121726e7a19d6b8525d/images%20(5).jpeg)
 **Example:** IBM’s Food Trust blockchain helps retailers trace food sources in seconds, reducing contamination risks and increasing consumer confidence.
 
 ### 2. Healthcare and Medical Records
