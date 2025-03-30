@@ -2,7 +2,6 @@
 Discover how blockchain is revolutionizing industries beyond cryptocurrency. Learn how it enhances security, transparency, and efficiency in healthcare, finance, supply chain, and more.
 
 ## Introduction
-![Image](https://github.com/Sixtus24/Blockchain-Beyond-Cryptocurrency-/blob/b4a1c06881e1375c2b799121726e7a19d6b8525d/images%20(5).jpeg)
 When people hear the word "blockchain," they often think of cryptocurrencies like Bitcoin and Ethereum. However, blockchain technology has applications far beyond digital currencies. Its decentralized, secure, and transparent nature is revolutionizing industries such as supply chain management, healthcare, finance, real estate, government services, education, energy, and logistics. By eliminating middlemen, increasing security, and improving trust, blockchain is shaping the future of digital transactions and data management. This article explores its diverse applications, real-world examples, expert insights, and future trends.
 
 ## Understanding Blockchain: Key Concepts
